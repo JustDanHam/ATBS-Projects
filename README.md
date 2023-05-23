@@ -12,13 +12,13 @@ _This was my introduction to Python, and each project was created using only the
 * [Character Picture Grid](https://github.com/JustDanHam/ATBS-Projects/blob/main/characterPictureGrid.py)
 
 **Chapter 5 - Dictionaries and Structuring Data:**
-* Chess Dictionary Validator
-* Fantasy Game Inventory
-* List to Dictionary Function for Fantasy Game Inventory
+* [Chess Dictionary Validator](https://github.com/JustDanHam/ATBS-Projects/blob/main/chessDictionaryValidator.py)
+* [Fantasy Game Inventory](https://github.com/JustDanHam/ATBS-Projects/blob/main/fantasyGameInventory.py)
+* [List to Dictionary Function for Fantasy Game Inventory](https://github.com/JustDanHam/ATBS-Projects/blob/main/fantasyGameInventory2.py)
 
 **Chapter 6 - Manipulating Strings:**
-* Table Printer
-* Zombie Dice Bots
+* [Table Printer](https://github.com/JustDanHam/ATBS-Projects/blob/main/tablePrinter.py)
+* [Zombie Dice Bots](https://github.com/JustDanHam/ATBS-Projects/blob/main/myZombiedice.py)
 
 **Chapter 7 - Pattern Matching with Regular Expressions:**
 * Date Detection
