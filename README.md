@@ -7,13 +7,14 @@ _This was my introduction to Python, and each project was created using only the
 * [The Collatz Sequence / Input Validation](https://github.com/JustDanHam/ATBS-Projects/blob/main/collatz.py)
 
 **Chapter 4 - Lists:**
-* Comma Code
-* Coin Flip Streaks
-* Character Picture Grid
+* [Comma Code](https://github.com/JustDanHam/ATBS-Projects/blob/main/commaCode.py)
+* [Coin Flip Streaks](https://github.com/JustDanHam/ATBS-Projects/blob/main/coinFlipStreaks.py)
+* [Character Picture Grid](https://github.com/JustDanHam/ATBS-Projects/blob/main/characterPictureGrid.py)
 
 **Chapter 5 - Dictionaries and Structuring Data:**
 * Chess Dictionary Validator
 * Fantasy Game Inventory
+* List to Dictionary Function for Fantasy Game Inventory
 
 **Chapter 6 - Manipulating Strings:**
 * Table Printer
