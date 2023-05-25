@@ -1,7 +1,11 @@
 # ATBS-Projects
 My solutions to the practice projects in Al Sweigart's book: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com).
 
-_This was my introduction to Python, and each project was created using only the knowledge gained at that point in the book._
+_This was my introduction to Python, and each project was created using the knowledge gained at that point in the book. There is almost certainly better/ more optimal solutions._
+
+_All uploaded projects were working at time of upload._
+
+_Yes, I know I need to get into the habit of commenting more. I'm working on it._
 
 **Chapter 3 - Functions:**
 * [The Collatz Sequence / Input Validation](https://github.com/JustDanHam/ATBS-Projects/blob/main/collatz.py)
