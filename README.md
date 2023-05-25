@@ -48,8 +48,8 @@ _Yes, I know I need to get into the habit of commenting more. I'm working on it.
 * [Debugging Coin Toss](https://github.com/JustDanHam/ATBS-Projects/blob/main/debuggingCoinToss.py)
 
 **Chapter 12 - Web Scraping:**
-* [Command Line Emailer]()
-* [Image Site Downloader]()
+* Command Line Emailer
+* Image Site Downloader
 * [2048](https://github.com/JustDanHam/ATBS-Projects/blob/main/2048Bot.py)
 * [Link Verification](https://github.com/JustDanHam/ATBS-Projects/blob/main/linkVerification.py)
 
@@ -83,7 +83,7 @@ _Yes, I know I need to get into the habit of commenting more. I'm working on it.
 * [Controlling Your Computer Through Email](https://github.com/JustDanHam/ATBS-Projects/blob/main/downloadTorrentByEmail.py)
 
 **Chapter 19 - Manipulating Images:**
-* [Extending and Fixing the Chapter Project Programs]()
+* Extending and Fixing the Chapter Project Programs
 * [Identifying Photo Folders on the Hard Drive](https://github.com/JustDanHam/ATBS-Projects/blob/main/findPhotoFolders.py)
 * [Custom Seating Cards](https://github.com/JustDanHam/ATBS-Projects/blob/main/customSeatingCards.py)
 
