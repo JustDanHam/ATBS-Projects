@@ -7,8 +7,8 @@ import random
 import smtplib
 
 
+yourEmail = 'yourGmailHere'
 emails = []
-
 
 def choreAssign(emails):
     chores = ['dishes', 'bathroom', 'hoover', 'feed cat']
@@ -39,7 +39,7 @@ def choreAssign(emails):
               f'{randomChore}!'
               '... enjoy!')
 
-        server.sendmail('yourGmail', email, msg)
+        server.sendmail(yourEmail, email, msg)
         # Close the connection
         server.quit()
 
