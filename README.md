@@ -7,6 +7,7 @@ _All uploaded projects were working at time of upload._
 
 _Yes, I know I need to get into the habit of commenting more. I'm working on it._
 
+
 **Chapter 3 - Functions:**
 * [The Collatz Sequence / Input Validation](https://github.com/JustDanHam/ATBS-Projects/blob/main/collatz.py)
 
@@ -25,68 +26,68 @@ _Yes, I know I need to get into the habit of commenting more. I'm working on it.
 * [Zombie Dice Bots](https://github.com/JustDanHam/ATBS-Projects/blob/main/myZombiedice.py)
 
 **Chapter 7 - Pattern Matching with Regular Expressions:**
-* Date Detection
-* Strong Password Detection
-* Regex Version of the strip() Method
+* [Date Detection](https://github.com/JustDanHam/ATBS-Projects/blob/main/dateDetection.py)
+* [Strong Password Detection](https://github.com/JustDanHam/ATBS-Projects/blob/main/strongPasswordDetection.py)
+* [Regex Version of the strip() Method](https://github.com/JustDanHam/ATBS-Projects/blob/main/regexStrip.py)
 
 **Chapter 8 - Input Validation:**
-* Sandwich Maker
-* Write Your Own Multiplication Quiz
+* [Sandwich Maker](https://github.com/JustDanHam/ATBS-Projects/blob/main/sandwichMakerV2.py)
+* [Write Your Own Multiplication Quiz](https://github.com/JustDanHam/ATBS-Projects/blob/main/myOwnMultiplicationQuiz.py)
 
 **Chapter 9 - Reading and Writing Files:**
-* Extending the Multi-Clipboard
-* Mad Libs
-* Regex Search
+* [Extending the Multi-Clipboard](https://github.com/JustDanHam/ATBS-Projects/blob/main/mcb.pyw)
+* [Mad Libs](https://github.com/JustDanHam/ATBS-Projects/blob/main/madLibsv2.py)
+* [Regex Search](https://github.com/JustDanHam/ATBS-Projects/blob/main/regexSearchTextFilesByLines.py)
 
 **Chapter 10 - Organizing Files:**
-* Selective Copy
-* Deleting Unneeded Files
-* Filling in the Gaps
+* [Selective Copy](https://github.com/JustDanHam/ATBS-Projects/blob/main/selectiveCopy.py)
+* [Deleting Unneeded Files](https://github.com/JustDanHam/ATBS-Projects/blob/main/bigFileFinder.py)
+* [Filling in the Gaps](https://github.com/JustDanHam/ATBS-Projects/blob/main/fillingInTheGaps.py)
 
 **Chapter 11 - Debugging:**
-* Debugging Coin Toss
+* [Debugging Coin Toss](https://github.com/JustDanHam/ATBS-Projects/blob/main/debuggingCoinToss.py)
 
 **Chapter 12 - Web Scraping:**
-* Command Line Emailer
-* Image Site Downloader
-* 2048
-* Link Verification
+* [Command Line Emailer]()
+* [Image Site Downloader]()
+* [2048](https://github.com/JustDanHam/ATBS-Projects/blob/main/2048Bot.py)
+* [Link Verification](https://github.com/JustDanHam/ATBS-Projects/blob/main/linkVerification.py)
 
 **Chapter 13 - Working with Excel Spreadsheets:**
-* Multiplication Table Maker
-* Blank Row Inserter
-* Spreadsheet Inverter
-* Text Files to Spreadsheet
+* [Multiplication Table Maker](https://github.com/JustDanHam/ATBS-Projects/blob/main/multiplicationTable.py)
+* [Blank Row Inserter](https://github.com/JustDanHam/ATBS-Projects/blob/main/blankRowInserter.py)
+* [Spreadsheet Inverter](https://github.com/JustDanHam/ATBS-Projects/blob/main/spreadsheetCellInverter.py)
+* [Text Files to Spreadsheet](https://github.com/JustDanHam/ATBS-Projects/blob/main/textFilesToSpreadsheet.py)
 
 **Chapter 14 - Working with Google Spreadsheets:**
-* Downloading Google Forms Data
-* Converting Spreadsheets to Other Formats
-* Finding Mistakes in a Spreadsheet
+* [Downloading Google Forms Data](https://github.com/JustDanHam/ATBS-Projects/blob/main/downloadingGoogleFormsData.py)
+* [Converting Spreadsheets to Other Formats](https://github.com/JustDanHam/ATBS-Projects/blob/main/convertingSpreadsheetsToOtherFormats.py)
+* [Finding Mistakes in a Spreadsheet](https://github.com/JustDanHam/ATBS-Projects/blob/main/findingMistakesInASpreadsheet.py)
 
 **Chapter 15 - Working with PDF and Word Documents:**
-* PDF Paranoia
-* Custom Invitations as Word Documents
-* Brute-Force PDF Password Breaker
+* [PDF Paranoia](https://github.com/JustDanHam/ATBS-Projects/blob/main/pdfParanoia.py)
+* [Custom Invitations as Word Documents]()
+* [Brute-Force PDF Password Breaker](https://github.com/JustDanHam/ATBS-Projects/blob/main/bruteForcePDFPasswordBreaker.py)
 
 **Chapter 16 - Working with CSV Files and JSON Data:**
-* Excel-to-CSV Converter
+* [Excel-to-CSV Converter](https://github.com/JustDanHam/ATBS-Projects/blob/main/excelToCsvConverter.py)
 
 **Chapter 17 - Keeping Time, Scheduling Tasks, and Launching Programs:**
-* Prettified Stopwatch
-* Scheduled Web Comic Downloader
+* [Prettified Stopwatch](https://github.com/JustDanHam/ATBS-Projects/blob/main/prettifiedStopwatch.py)
+* [Scheduled Web Comic Downloader](https://github.com/JustDanHam/ATBS-Projects/blob/main/swcd.py)
 
 **Chapter 18 - Sending Email and Text Messages:**
-* Random Chore Assignment Emailer
-* Umbrella Reminder
-* Auto Unsubscriber
-* Controlling Your Computer Through Email
+* [Random Chore Assignment Emailer](https://github.com/JustDanHam/ATBS-Projects/blob/main/randomChore.py)
+* [Umbrella Reminder](https://github.com/JustDanHam/ATBS-Projects/blob/main/umbrellaReminder.py)
+* [Auto Unsubscriber](https://github.com/JustDanHam/ATBS-Projects/blob/main/autoUnsubscriber.py)
+* [Controlling Your Computer Through Email](https://github.com/JustDanHam/ATBS-Projects/blob/main/downloadTorrentByEmail.py)
 
 **Chapter 19 - Manipulating Images:**
-* Extending and Fixing the Chapter Project Programs
-* Identifying Photo Folders on the Hard Drive
-* Custom Seating Cards
+* [Extending and Fixing the Chapter Project Programs]()
+* [Identifying Photo Folders on the Hard Drive](https://github.com/JustDanHam/ATBS-Projects/blob/main/findPhotoFolders.py)
+* [Custom Seating Cards](https://github.com/JustDanHam/ATBS-Projects/blob/main/customSeatingCards.py)
 
 **Chapter 20 - Controlling the Keyboard and Mouse with GUI Automation:**
-* Looking Busy
-* Using the Clipboard to Read a Text Field
-* Instant Messenger Bot
+* [Looking Busy](https://github.com/JustDanHam/ATBS-Projects/blob/main/lookingBusy.py)
+* [Using the Clipboard to Read a Text Field](https://github.com/JustDanHam/ATBS-Projects/blob/main/copyText.py)
+* [Instant Messenger Bot](https://github.com/JustDanHam/ATBS-Projects/blob/main/instantMessengerBot.py)
