@@ -5,8 +5,6 @@ _This was my introduction to Python, and each project was created using the know
 
 _All uploaded projects were working at time of upload._
 
-_Yes, I know I need to get into the habit of commenting more. I'm working on it._
-
 
 **Chapter 3 - Functions:**
 * [The Collatz Sequence / Input Validation](https://github.com/JustDanHam/ATBS-Projects/blob/main/collatz.py)
