@@ -7,7 +7,7 @@ import random
 import smtplib
 
 
-emails = ['crazyhamsterboy@hotmail.com']
+emails = []
 
 
 def choreAssign(emails):
@@ -27,7 +27,7 @@ def choreAssign(emails):
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.ehlo()
         server.starttls()
-        server.login('alldhamnonedspam@gmail.com',
+        server.login('yourGmail@gmail.com',
                       input('Enter email password'))
 
         # Send the email with chosen chore.
@@ -39,7 +39,7 @@ def choreAssign(emails):
               f'{randomChore}!'
               '... enjoy!')
 
-        server.sendmail('alldhamnonedspam@gmail.com', email, msg)
+        server.sendmail('yourGmail', email, msg)
         # Close the connection
         server.quit()
 
